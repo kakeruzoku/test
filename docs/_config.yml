@@ -1,0 +1,16 @@
+theme: minima
+
+title: test
+
+description: Test description
+
+header_pages:
+  - index.md
+  - en.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: classic
